@@ -1,0 +1,35 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+h4
+{
+color:red;
+}
+body
+{
+    background:lightseagreen;
+}
+.column
+{
+    display:inline;
+    padding: 10px;
+}
+.copyright_footer{
+    position: fixed;
+    color: dodgerblue;
+    line-height: 3;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    background-color: coral;
+}
+img:hover{
+    border-radius: 140px;
+}
